@@ -1,0 +1,106 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans/opensansregular.eot');
+    src: url('OpenSans/opensansregulard41d.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans/opensansregular.woff2') format('woff2'),
+         url('OpenSans/opensansregular.woff') format('woff'),
+         url('OpenSans/opensansregular.ttf') format('truetype'),
+         url('OpenSans/opensansregular.svg#Open Sans') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Open Sans Light';
+    src: url('OpenSans/opensanslight.eot');
+    src: url('OpenSans/opensanslightd41d.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans/opensanslight.woff2') format('woff2'),
+         url('OpenSans/opensanslight.woff') format('woff'),
+         url('OpenSans/opensanslight.ttf') format('truetype'),
+         url('OpenSans/opensanslight.svg#OpenSans Light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Open Sans Semibold';
+    src: url('OpenSans/opensanssemibold.eot');
+    src: url('OpenSans/opensanssemiboldd41d.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans/opensanssemibold.woff2') format('woff2'),
+         url('OpenSans/opensanssemibold.woff') format('woff'),
+         url('OpenSans/opensanssemibold.ttf') format('truetype'),
+         url('OpenSans/opensanssemibold.svg#Open Sans Semibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Open Sans Bold';
+    src: url('OpenSans/opensansbold.eot');
+    src: url('OpenSans/opensansboldd41d.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans/opensansbold.woff2') format('woff2'),
+         url('OpenSans/opensansbold.woff') format('woff'),
+         url('OpenSans/opensansbold.ttf') format('truetype'),
+         url('OpenSans/opensansbold.svg#Open Sans Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Open Sans ExtraBold';
+    src: url('OpenSans/OpenSansExtraBold.eot');
+    src: url('OpenSans/OpenSansExtraBoldd41d.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans/OpenSansExtraBold.woff') format('woff'),
+         url('OpenSans/OpenSansExtraBold.ttf') format('truetype'),
+
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Open Sans Condensed Bold';
+    src: url('OpenSans/opensanscondensedbold.eot');
+    src: url('OpenSans/opensanscondensedboldd41d.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans/opensanscondensedbold.woff2') format('woff2'),
+         url('OpenSans/opensanscondensedbold.woff') format('woff'),
+         url('OpenSans/opensanscondensedbold.ttf') format('truetype'),
+         url('OpenSans/opensanscondensedbold.svg#Open Sans Condensed Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Open Sans Condensed';
+    src: url('OpenSans/OpenSansCondensed.eot');
+    src: url('OpenSans/OpenSansCondensedd41d.eot?#iefix') format('embedded-opentype'),
+         url('OpenSans/OpenSansCondensed.woff') format('woff'),
+         url('OpenSans/OpenSansCondensed.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Cuprum Bold';
+    src: url('Cuprum/cuprum_bold.html');
+    src: url('Cuprum/cuprum_boldd41d.html?#iefix') format('embedded-opentype'),
+         url('Cuprum/cuprum_bold-2.html') format('woff2'),
+         url('Cuprum/cuprum_bold-3.html') format('woff'),
+         url('Cuprum/cuprum_bold-4.html') format('truetype'),
+         url('Cuprum/cuprum_bold-5.html#Cuprum Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family: "Flaticon";
+	src: url("fonts/icons/flaticon.html");
+	src: url("fonts/icons/flaticon.html#iefix") format("embedded-opentype"),
+	url("fonts/icons/flaticon-2.html") format("woff"),
+	url("fonts/icons/flaticon-3.html") format("truetype"),
+	url("fonts/icons/flaticon-4.html") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "FontAwesome";
+	src: url("fonts/icons/fontawesome.html");
+	src: url("fonts/icons/fontawesome.html#iefix") format("embedded-opentype"),
+       url('fonts/icons/fontawesome-2.html') format('woff2'),
+       url("fonts/icons/fontawesome-3.html") format("woff"),
+       url("fonts/icons/fontawesome-4.html") format("truetype"),
+       url("fonts/icons/fontawesome-5.html") format("svg");
+	font-weight: normal;
+	font-style: normal;
+}
